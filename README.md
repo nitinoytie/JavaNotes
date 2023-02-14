@@ -46,7 +46,7 @@ Output
 34
 35
 36
-↥ back to top
+
 Q. What is the output of following program?
 import java.util.ArrayList;
 public class Test {
@@ -103,7 +103,7 @@ Exception in thread "main" java.lang.Error: Unresolved compilation problem:
 	Cannot make a static reference to the non-static field two
 
 	at Test.main(Test.java:9)
-↥ back to top
+	
 Q. What is the output of following program?
 public class Test{  
     
@@ -143,7 +143,7 @@ Exception in thread "main" java.lang.Error: Unresolved compilation problem:
 	Unreachable catch block for ArithmeticException. It is already handled by the catch block for Exception
 
 	at Test.main(Test.java:12)
-↥ back to top
+
 Q. What is the output of following program?
 public class Test 
 {  	
@@ -195,7 +195,7 @@ D. The code does not compile
 D. The code does not compile 
 Explanation: The local variable chair may not have been initialized
 
-↥ back to top
+
 Q. Which is correct about an instance variable of type String?
 A. It defaults to an empty string.
 B. It defaults to null.
@@ -249,7 +249,6 @@ D. p4
 D. P4
 Explanation: Type mismatch: cannot convert from double to float
 
-↥ back to top
 Q. How many instance initializers are in this code?
 public class Bowling {
  { 
@@ -299,7 +298,7 @@ C. The code does not compile.
 D. The code compiles but throws an exception at runtime
 
 C. The code does not compile.
-↥ back to top
+
 Q. Which two primitives have wrapper classes that are not merely the name of the primitive with an uppercase letter?
 A. byte and char
 B. byte and int
@@ -344,7 +343,7 @@ D. None of the above; they all compile
 B. double num = 2._718;
 Explanation: Underscores are allowed between any two digits in a numeric literal. Underscores are not allowed adjacent to a decimal point
 
-↥ back to top
+
 Q. Which of the following is the output of this code, assuming it runs to completion?
 public class Toy {
   public void play() {
